@@ -24,7 +24,7 @@ acestream://699d5ea3b0132a0e9c2c381a86a669b77384977c
 acestream://8021cba61d1e0891a41a6c3334f947360000dc8e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ LaLiga 7", M. LaLiga 7 1080
 acestream://1c0bb99925a0d18e075c2fe2cd7cb50946554ab1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN LaLigaHD", DAZN LaLiga 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN LaLigaHD multi audio", DAZN LaLiga 1080
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN LaLiga multitest", DAZN LaLiga 1080
 acestream://c72263175266c90d376dcb8607c28e02939c1873
@@ -63,7 +63,7 @@ acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES2", M.L. Campeones 2 SD
 acestream://04b36c831975b5514b63d6aaa97962bc2a495dd3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES3", M.L. Campeones 3 SD
-acestream://f2b785193cfa99c581287be39e2fb5a73827957b
+acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES4", M.L. Campeones 4 SD
 acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES5", M.L. Campeones 5 SD
