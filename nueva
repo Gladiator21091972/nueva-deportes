@@ -16,6 +16,8 @@ acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
 acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" group-title="Mundial" tvg-id="Gol Mundial HD", Gol Mundial 720 low 
 acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="LA 1 UHD", LA 1 1080
+acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="LA 1 HD", LA 1 1080
 acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="LALIGATV BAR", LaLiga Tv Bar 1080
