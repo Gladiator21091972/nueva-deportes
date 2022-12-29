@@ -2,13 +2,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="LALIGATV BAR", LaLiga Tv Bar 1080
-acestream://01b333b9369c662775902638ef8cffac346a0f61
+acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="LALIGATV BAR", LaLiga Tv Bar 720
 acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio
-acestream://684e5c085484e8ea79858713eeb7a3668baca29e
+acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ LaLiga HD", M. LaLiga 1080
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ LaLiga HD", M. LaLiga 720
@@ -16,9 +16,9 @@ acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M. LaLiga 1", M. LaLiga 1 1080
 acestream://4229d640fecf3c0897674241bcf851b67f4310e3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ LaLiga 2 HD", M. LaLiga 2 1080
-acestream://ed147166c7df93f7aecba44d4e2fc9383d028218
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ LaLiga 2 ", M. LaLiga 2 720
-acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ LaLiga 3 HD", M. LaLiga 3 1080
 acestream://2075cf1c981654a5772d8508ecce044375d9ba38
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ LaLiga 4", M. LaLiga 4 1080
@@ -30,11 +30,11 @@ acestream://8021cba61d1e0891a41a6c3334f947360000dc8e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ LaLiga 7", M. LaLiga 7 1080
 acestream://1c0bb99925a0d18e075c2fe2cd7cb50946554ab1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN LaLigaHD multi audio", DAZN LaLiga 1080
-acestream://fee5612d57824b6e8db780f210ec54093056dc3a
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN LaLiga multitest", DAZN LaLiga 1080
-acestream://df98650743f24a245c44cdf2851e57078f4c487a
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN LaLigaHD", DAZN LaLiga 720
-acestream://c35d2207792128fc0ae49c40e885c463f664dbce
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN LaLiga2 HD", DAZN LaLiga 2 1080
 acestream://1124d4366348b76a755710c8d0d5728e39d0095c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN LaLiga2 HD", DAZN LaLiga 2 720
