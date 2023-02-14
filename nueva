@@ -74,6 +74,8 @@ acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+DEPORTES8HD", M. Deportes 8 SD
 acestream://b779e6056975e3682a804d47cbd5cc806217f64d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES", M.L. Campeones 1080 MultiAudio
+acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES", M.L. Campeones 1080 MultiAudio
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES", M.L. Campeones 1080
 acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
@@ -120,11 +122,11 @@ acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qjk9GPx/DAZN4.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN 4", DAZN 4 1080
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN F1 HD", DAZN F1 1080 (F?rmula 1)
-acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
+acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN F1 HD", DAZN F1 1080 (F?rmula 1)
 acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN F1 HD", DAZN F1 720 (F?rmula 1)
-acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
+acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="GOL HD", GOL TV 1080
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="EUROSPORT1HD", EuroSport 1 1080
